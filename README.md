@@ -8,7 +8,8 @@ This project presents a Power BI dashboard that analyzes:
 - Customer insights across different states
 
  Dashboard Preview
- ![Dashboard](dashboard.png)
+ ![Dashboard](dashboard.png<img width="1305" height="724" alt="image" src="https://github.com/user-attachments/assets/1efd8e5b-90d6-4a5d-ac04-1973e059053f" />
+)
 
 
 Key Metrics
